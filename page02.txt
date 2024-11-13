@@ -1,1 +1,2 @@
 2.sayfa
+tester stash icin ekledim
